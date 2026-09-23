@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello! ☺️ </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 클라우드 보안 엔지니어를 목표로</li>공부하고 있는 대학생입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 클라우드 보안 엔지니어를 목표로 공부하고 있는 대학생입니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
