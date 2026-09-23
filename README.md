@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=0:14d0ff,100:1cd803&height=180&text=hyunjun's%20Github&animation=scaleIn&fontColor=000000&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=0:14d0ff,100:1cd803&height=180&text=hyunjun's%20Github&animation=scaleIn&fontColor=491ee6&fontSize=60" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello! ☺️ </h2>  
@@ -19,5 +19,4 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    
     
